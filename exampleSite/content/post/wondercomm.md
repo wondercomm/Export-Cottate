@@ -4,9 +4,9 @@ categories = []
 date = ""
 description = "This is meta description."
 draft = true
-image = "/images/tis-earth-final-logo-digital.png"
+image = "/images/wondercomm_icon.png"
 tags = []
 title = "Wondercomm"
 
 +++
-#### Handmade | Sustainable | India
+#### Network | Security | Data Management | VoIP/PBX | Software | Hardware
