@@ -1,38 +1,48 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
-draft: false
+title: Hand made | Sustainable | Health | IT & Management
+image: images/author.jpg
+description: This is meta description.
+
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
-
-<br>
-<br>
-
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+Export Cottage is a New Age Startup raised from ground up to provide better living and a sustainable future. Our brands bring hand made, sustainable and organic products to consumers - it promotes local artisans values and caters to the growing economy by bringing the utmost precision and quality goods to our customers.  
 
 <br>
 <br>
 
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+## ['Tis Earth](http://www.tisearth.com "'tis earth")
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+Write a few lines about tis earth. 
+
+* point A
+* point B
+* point C
 
 <br>
 <br>
 
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+## [Libertate](https://libertatehealthtest01.netlify.app/ "Libertate")
 
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+Write a few lines about libertate. 
+
+* point A
+* point B
+* point C
+
+<br>
+<br>
+
+## [Animis Global](http://www.animisglobal.com "animis global")
+
+Write a few lines about AG
+
+* point A
+* point B
+* point C
+
+## [Wondercomm]()
+
+Write a few lines about WC
+
+* point A
+* point B
+* point C
