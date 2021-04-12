@@ -13,7 +13,7 @@ url = "contact"
 weight = 3
 [[menu.main]]
 name = "Brands"
-url = "categories/nature/"
+url = "categories/brands"
 weight = 1
 [[menu.main]]
 name = "About"
