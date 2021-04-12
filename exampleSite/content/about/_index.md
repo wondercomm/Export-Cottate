@@ -1,6 +1,6 @@
 ---
 title: Hand made | Sustainable | Health | IT & Management
-image: images/author.jpg
+image: images/Export Cottage Logo Main (white).png
 description: This is meta description.
 
 ---
