@@ -3,7 +3,6 @@ author = "Export Cottage"
 categories = []
 date = ""
 description = "This is meta description."
-draft = true
 image = "/images/wondercomm_icon.png"
 tags = []
 title = "Wondercomm"
