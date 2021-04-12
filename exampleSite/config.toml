@@ -30,12 +30,12 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
-contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+author = "Export Cottage"
+contact_form_action = "mailto: wecare@exportcottage.com"
+copyright = "Designed & Developed By [Animis Global](http://animisglobal.com/)"
 description = "This is meta description"
 logo = "images/Export Cottage Logo Main (white).png"
-search = true
+search = false
 [params.cookies]
 enable = true
 expire_days = 2
