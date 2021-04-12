@@ -3,10 +3,9 @@ author = "Export Cottage"
 categories = []
 date = ""
 description = "This is meta description."
-draft = true
-image = "/images/tis-earth-final-logo-digital.png"
+image = "/images/libertate-1.png"
 tags = []
 title = "Libertate"
 
 +++
-#### Handmade | Sustainable | India
+#### Health | COVID-19 Products | Hand Hygiene
