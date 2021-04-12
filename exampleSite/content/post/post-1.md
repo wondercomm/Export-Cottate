@@ -6,6 +6,10 @@ author: Export Cottage
 description: This is meta description.
 categories: []
 tags: []
+menu:
+  main:
+    name: Home
+    weight: 1
 
 ---
 #### Handmade | Sustainable | India
